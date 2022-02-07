@@ -1,2 +1,2 @@
 # katas-
-ejercicios realizados de la semana propedeutica
+ejercicios realizados en la semana propedeutica
